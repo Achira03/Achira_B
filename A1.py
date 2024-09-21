@@ -1,0 +1,1 @@
+print("look e nho tad")
