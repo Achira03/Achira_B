@@ -1,1 +1,3 @@
-print("look e nho tad")
+all_score = []
+for i in range(1, 6):
+    
